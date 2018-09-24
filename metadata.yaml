@@ -1,5 +1,8 @@
 _repo: Poems-of-Giosue-Carducci-Translated-with-two-introductory-essays-I-Giosue-Carducci-and-the-He__56711
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56711-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Carducci, Giosuè
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '48994'
     url: http://www.gutenberg.org/2009/agents/48994
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56711#Poems-of-Giosue-Carducci-Translated-with-two-introductory-essays-I-Giosue-Carducci-and-the-He_
 gutenberg_issued: '2018-03-09'
 gutenberg_type: Text
 identifiers:
